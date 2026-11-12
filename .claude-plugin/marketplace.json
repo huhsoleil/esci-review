@@ -1,0 +1,22 @@
+{
+  "name": "huhsoleil-esci-review",
+  "owner": {
+    "name": "Sun Huh",
+    "email": "huhsoleil@gmail.com"
+  },
+  "metadata": {
+    "description": "Sun Huh's ESCI-review plugin for journal editors"
+  },
+  "plugins": [
+    {
+      "name": "esci-review",
+      "source": "./",
+      "description": "Pre-screens journals against the Web of Science ESCI quality criteria and predicts the likely evaluation outcome.",
+      "version": "1.0.0",
+      "author": { "name": "Sun Huh" },
+      "license": "CC-BY-4.0",
+      "category": "productivity",
+      "keywords": ["esci", "web-of-science", "journal-indexing", "journal-evaluation"]
+    }
+  ]
+}

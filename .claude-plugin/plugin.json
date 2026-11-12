@@ -1,0 +1,25 @@
+{
+  "name": "esci-review",
+  "displayName": "ESCI Review",
+  "version": "1.0.0",
+  "description": "Pre-screens a journal's website and sample articles against the 24 Web of Science quality criteria and 44 ESCI rejection-based checks, predicts the likely ESCI outcome by evaluation stage, and produces a prioritized markdown report with improvement recommendations.",
+  "author": {
+    "name": "Sun Huh",
+    "email": "huhsoleil@gmail.com",
+    "url": "https://github.com/huhsoleil"
+  },
+  "homepage": "https://github.com/huhsoleil/esci-review",
+  "repository": "https://github.com/huhsoleil/esci-review",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "esci",
+    "web-of-science",
+    "clarivate",
+    "journal-indexing",
+    "journal-evaluation",
+    "scholarly-publishing",
+    "medical-journal",
+    "editor"
+  ],
+  "icon": "./assets/icon.png"
+}

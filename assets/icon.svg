@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>esci-review icon</title>
+  <rect width="512" height="512" rx="96" fill="#1F5FA8"/>
+  <!-- journal page -->
+  <path d="M120 84 h196 l76 76 v268 a20 20 0 0 1 -20 20 h-252 a20 20 0 0 1 -20 -20 v-324 a20 20 0 0 1 20 -20 z" fill="#FFFFFF"/>
+  <path d="M316 84 v56 a20 20 0 0 0 20 20 h56 z" fill="#BFD4EE"/>
+  <!-- three-stage checklist -->
+  <g fill="#1F5FA8">
+    <circle cx="164" cy="210" r="16"/>
+    <circle cx="164" cy="280" r="16"/>
+    <circle cx="164" cy="350" r="16"/>
+  </g>
+  <g fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M156 210 l6 6 l11 -12"/>
+    <path d="M156 280 l6 6 l11 -12"/>
+    <path d="M156 350 l6 6 l11 -12"/>
+  </g>
+  <g fill="#9DBBE3">
+    <rect x="198" y="202" width="150" height="16" rx="8"/>
+    <rect x="198" y="272" width="150" height="16" rx="8"/>
+    <rect x="198" y="342" width="110" height="16" rx="8"/>
+  </g>
+  <!-- stage bar -->
+  <g>
+    <rect x="148" y="122" width="44" height="22" rx="6" fill="#1F5FA8"/>
+    <rect x="200" y="122" width="44" height="22" rx="6" fill="#4F86C9"/>
+    <rect x="252" y="122" width="44" height="22" rx="6" fill="#9DBBE3"/>
+  </g>
+</svg>
