@@ -20,6 +20,8 @@ The 4 impact criteria, which decide promotion to SCIE/SSCI/AHCI, are out of scop
 ```
 skills/esci-review/
 └── SKILL.md      # Criteria C1–C24, checks S1–S44, procedure, prediction rules, report format
+dist/
+└── esci-review.zip   # Ready-to-upload package for Claude.ai
 ```
 
 ## Installation
@@ -38,7 +40,7 @@ skills/esci-review/
   ```
 
 - **Claude Code (manual)**: copy the `skills/esci-review` folder to `~/.claude/skills/` (personal) or `.claude/skills/` (project).
-- **Claude.ai**: download `esci-review.zip` from the [Releases](https://github.com/huhsoleil/esci-review/releases) page (or zip the `skills/esci-review` folder) and upload it under Settings → Capabilities → Skills.
+- **Claude.ai**: download [`dist/esci-review.zip`](https://github.com/huhsoleil/esci-review/raw/main/dist/esci-review.zip) (or zip the `skills/esci-review` folder) and upload it under Settings → Capabilities → Skills.
 
 ## Usage
 
